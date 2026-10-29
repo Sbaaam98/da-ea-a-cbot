@@ -1,0 +1,6 @@
+Appunti prove BIG BUBBLES.
+
+1. Codice EA MQL5 confermato: `BIGBUBBLES.mq5` v1.20.
+2. Prove su MT5 storico/tester: da eseguire.
+3. Note: ATR su barra segnale `i=1`; break-even su chiusura barra.
+4. TODO: estrarre log delle entrate e salvare in `prove/` dopo ogni run.
