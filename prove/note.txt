@@ -1,0 +1,7 @@
+Appunti prove campo — aggiornare dopo ogni test.
+
+1. Punto di partenza: EA MQL5 con entrata su incrocio medie e ATR.
+2. Primo blocco atteso: differenza tra eventi OnTick vs OnBar.
+3. API confermate da schema.md: ExecuteMarketOrder per apertura.
+4. TODO: validare trailing loss su posizione aperta in cTrader.
+5. TODO: simulare spread reali su XAUUSD/XTIUSD per comparare EA vs cBot.
