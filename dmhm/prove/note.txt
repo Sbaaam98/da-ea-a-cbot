@@ -1,0 +1,6 @@
+Appunti prove DMHM.
+
+1. Codice EA MQL5 confermato: `DMHM.mq5` v3.10.
+2. Prossime prove: backtest MT5 storico su XAUUSD.
+3. Note: shift=1 su tutti gli input indicatori; dashboard attiva di default.
+4. TODO: raccogliere log di segnali e trade in `prove/`.
